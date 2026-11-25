@@ -22,7 +22,7 @@ body { margin: 0; line-height: 1.55; }
 .masthead { background: var(--orange); border-bottom: 1px solid #391d361f; }
 .topbar, .brand, .footer-inner { display: flex; align-items: center; }
 .topbar, .footer-inner { justify-content: space-between; gap: 16px; min-height: 62px; }
-.brand { gap: 10px; font-size: 1.125rem; font-weight: 850; letter-spacing: -.04em; }
+.brand { gap: 10px; color: #fff; font-size: 1.125rem; font-weight: 850; letter-spacing: -.04em; }
 .brand-mark { display: grid; place-items: center; width: 34px; height: 34px; color: #fff; background: var(--purple); border-radius: 50%; }
 .footer a { color: inherit; font-size: .875rem; font-weight: 750; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .intro {
